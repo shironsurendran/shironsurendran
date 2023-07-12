@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)
+
 <h1 align="center">Hi 👋, I'm SHIRON S</h1>
 <h3 align="center">"From concept to deployment, the full-stack MERN developer you can trust."</h3>
-<p align="left"> <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="shironsurendran" /> </p>
+<p align="left"> <img src="(https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)" alt="shironsurendran" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shironsurendran&label=Profile%20views&color=0e75b6&style=flat" alt="shironsurendran" /> </p>
