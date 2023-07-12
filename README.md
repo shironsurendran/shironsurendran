@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm SHIRON S</h1>
 <h3 align="center">"From concept to deployment, the full-stack MERN developer you can trust."</h3>
-<p align="left"> <img src="(https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966)" alt="shironsurendran" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" alt="shironsurendran" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shironsurendran&label=Profile%20views&color=0e75b6&style=flat" alt="shironsurendran" /> </p>
