@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shironsurendran2000@gmail.com**
 
-- My Portfolio Link <a href=" https://shironsurendran.github.io/portfolio/"></a>
+- My Portfolio Link " https://shironsurendran.github.io/portfolio/
 
 - ⚡ Fun fact **A true movie lover**
 
